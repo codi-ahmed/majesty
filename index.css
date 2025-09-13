@@ -237,6 +237,7 @@ overflow: hidden;
   font-family: "Inter", sans-serif;
   line-height: 1.4rem;
   color: white;
+  text-decoration: none;
 }
 
 .section-two {
@@ -504,11 +505,15 @@ overflow: hidden;
   display: flex;
   flex-direction: column;
   gap: 30px;
-  font-family: "Inter", sans-serif;
+  
+}
+.line-f-t{
+font-family: "Inter", sans-serif;
   font-size: 2rem;
   color: white;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .second-line{
